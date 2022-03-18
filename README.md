@@ -19,5 +19,5 @@ Ta-da! 🥳 The extension has been successfully installed.
 
 [unpacked]: https://developer.chrome.com/docs/extensions/mv3/getstarted/#unpacked
 [extensions]: https://developer.chrome.com/docs/extensions/mv3/
-[screenshot]: https://github.com/lizlove/carousel-blocker/blob/main/images/screenshot.png?raw=true
-[icon]: https://github.com/lizlove/carousel-blocker/blob/main/images/cb128.png?raw=true
+[screenshot]: https://github.com/flatironinstitute/carousel-blocker/blob/main/public/screenshot.png?raw=true
+[icon]: https://github.com/flatironinstitute/carousel-blocker/blob/main/public/cb128.png?raw=true
