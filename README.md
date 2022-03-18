@@ -2,7 +2,7 @@
 
 Block the landing page carousel on organization intranet. 
 
-![cb-icon](icon)
+![cb-icon](https://github.com/lizlove/carousel-blocker/blob/main/cb128.png?raw=true)
 
 ## Installation
 
