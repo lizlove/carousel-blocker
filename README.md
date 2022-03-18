@@ -15,7 +15,7 @@ To load the [unpacked][unpacked] extension, follow these steps:
 
 Ta-da! 🥳 The extension has been successfully installed. 
 
-<img alt="screenshot" src="https://github.com/lizlove/carousel-blocker/blob/main/images/screenshot.png?raw=true" width="200" height="auto" />
+<img alt="screenshot" src="https://github.com/lizlove/carousel-blocker/blob/main/images/screenshot.png?raw=true" width="563" height="auto" />
 
 [unpacked]: https://developer.chrome.com/docs/extensions/mv3/getstarted/#unpacked
 [extensions]: https://developer.chrome.com/docs/extensions/mv3/
